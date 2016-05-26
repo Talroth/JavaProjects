@@ -53,7 +53,7 @@ public class IMDB
 		}
 		catch (Exception e)
 		{
-			throw new Exception("movie not exist");
+			throw new Exception("movie not exist1");
 		}
 	}
 	
